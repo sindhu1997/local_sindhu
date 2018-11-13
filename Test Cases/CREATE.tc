@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>creeating the user</description>
+   <name>CREATE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a74a7b51-8a72-408e-a866-20660dbc99b3</testCaseGuid>
+</TestCaseEntity>
